@@ -2,7 +2,7 @@ import java.util.*;
 
 class Main {
 
-// Class of Employee
+
 static class employee{
 	String name;
 	long code;
